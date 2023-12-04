@@ -1,0 +1,17 @@
+/* Add your styles here */
+
+table,td{
+  border:2px solid black ;
+  border-collapse: collapse;
+
+}
+table{
+  background-color: yellow;
+}
+td{
+  background-color: white;
+  width: 30px
+}
+th,td{
+  padding: 5px;
+}
